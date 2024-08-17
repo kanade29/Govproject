@@ -1,0 +1,28 @@
+.po1{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+
+.po1 img{
+    width: 100%;
+    margin-top: -10%;
+}
+
+.po2{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.po2 img{
+    width: 100%;
+}
+
+
+
